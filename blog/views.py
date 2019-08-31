@@ -9,3 +9,6 @@ def get_index(request):
 
 def new_post(request):
 	pass
+
+def bilal(request):
+    pass
